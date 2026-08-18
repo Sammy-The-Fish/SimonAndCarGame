@@ -17,6 +17,11 @@ git clone https://github.com/Sammy-The-Fish/SimonAndCarGame.git
 python main.py
 ```
 
+# Screenshots
+!(screenshot of menu)[Screenshots\MenuScreenshot.png]
+!(screenshot of game)[Screenshots\GameScreenshot.png]
+
+
 # Controls
 The keyboard inputs are:
 - A: Blue, S: Green, D: Red: F: Yellow
