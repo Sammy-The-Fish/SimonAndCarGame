@@ -18,9 +18,9 @@ python main.py
 ```
 
 # Screenshots
-!(screenshot of menu)[Screenshots\MenuScreenshot.png]
-!(screenshot of game)[Screenshots\GameScreenshot.png]
 
+<img src="./Screenshots/MenuScreenshot.png" width="300" alt="screenshot of menu">
+<img src="./Screenshots/GameScreenshot.png" width="300" alt="screenshot of game">
 
 # Controls
 The keyboard inputs are:
